@@ -36,6 +36,9 @@ gem 'jbuilder', '~> 2.5'
 # Devise for Auth
 gem 'devise', '~> 4.2'
 
+# Omni-Auth for Facebook authentication
+gem 'omniauth-facebook'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
